@@ -1,0 +1,25 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Lan Ge">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10563</md:content-id>
+    <md:title>Study at University</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License 2.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>22d7697b-3c3d-49cb-944c-9cd04f679334</md:uuid>
+<md:slug>study-at-university</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>(Untitled)</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>(Untitled)</md:title>
+          <col:content>                  </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>introduction</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
